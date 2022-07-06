@@ -1,0 +1,25 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\ilias\Desktop\VelvetechTestTask-master
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\ilias\Desktop\VelvetechTestTask-master
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\ilias\Desktop\VelvetechTestTask-master
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\ilias\Desktop\VelvetechTestTask-master
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\ilias\Desktop\VelvetechTestTask-master
+Returned null array of Items on path /api/TodoItems
+CreateTodoItem action: New item added to DB: Name: testing, Completed: True
+Returned null array of Items on path /api/TodoItems
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\ilias\Desktop\VelvetechTestTask-master
+CreateTodoItem action: New item added to DB: Name: string, Completed: True
+Returned null array of Items on path /api/TodoItems
+Item found for id: 2.
+Item found for id: 2.
